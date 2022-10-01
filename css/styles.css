@@ -20,3 +20,9 @@ h1{
 .bottomcloud{
   position: absolute;
 }
+
+
+.contact-me,.bottom-container
+{
+  background-color: #ccf2f4;
+}
